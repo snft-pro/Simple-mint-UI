@@ -1,0 +1,39 @@
+{
+  "name": "snft",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@iconify/react": "^5.0.2",
+    "@modern-js/plugin-tailwindcss": "^2.54.6",
+    "@nextui-org/dropdown": "^2.1.26",
+    "@nextui-org/react": "^2.4.2",
+    "@nextui-org/system": "^2.2.2",
+    "@nextui-org/theme": "^2.2.6",
+    "blo": "^1.2.0",
+    "framer-motion": "^11.2.13",
+    "next": "^14.2.4",
+    "pino-pretty": "^7.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "thirdweb": "^5.88.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5"
+  }
+}
